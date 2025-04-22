@@ -32,7 +32,7 @@ This experiment involves creating an AWS account, configuring security settings 
 ![image](https://github.com/user-attachments/assets/20f0c1da-e443-4fc5-a3e8-68e4f49aec41)
 ![image](https://github.com/user-attachments/assets/583580f9-aae8-49f6-9503-ed927e579245)
  ### IAM USER:
-![image](https://github.com/user-attachments/assets/c918a89d-4a98-4d73-8662-0b14264a96c0)
+![Screenshot 2025-04-22 143058](https://github.com/user-attachments/assets/28d6152d-72f8-4e5c-b177-21d956f00b7f)
 ![image](https://github.com/user-attachments/assets/e279f92a-1fc7-470b-a55b-8b0712c7009b)
 
 ## RESULT
